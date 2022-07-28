@@ -1,0 +1,5 @@
+import 'babel-polyfill'
+import '../vendors'
+import './web-settings'
+import 'youboralib'
+import 'youbora-adapter-shaka'
